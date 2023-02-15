@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "status": "PENDING",
+    "date": "2023-02-14T19:25:04.304Z",
+    "user": {
+      "name": "Ray Pressley",
+      "location": "San Francisco",
+      "imageUrl": "https://picsum.photos/200/300",
+      "previousDeals": 20,
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+    },
+    "availableTimeSlots": [
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      },
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      }
+    ],
+    "sessionPrice": "80.00"
+  },
+  {
+    "id": 2,
+    "status": "ACTIVE",
+    "date": "2023-02-14T19:25:04.305Z",
+    "user": {
+      "name": "Ray Pressley",
+      "location": "San Francisco",
+      "imageUrl": "https://picsum.photos/200/300",
+      "previousDeals": 20,
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+    },
+    "availableTimeSlots": [
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      }
+    ],
+    "startingAt": "2023-02-14T19:25:04.305Z",
+    "sessionPrice": "80.00"
+  },
+  {
+    "id": 3,
+    "status": "PENDING",
+    "date": "2023-02-14T19:25:04.304Z",
+    "user": {
+      "name": "Ray Pressley",
+      "location": "San Francisco",
+      "imageUrl": "https://picsum.photos/200/300",
+      "previousDeals": 20,
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+    },
+    "availableTimeSlots": [
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      },
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      }
+    ],
+    "sessionPrice": "80.00"
+  },
+  {
+    "id": 4,
+    "status": "PAYMENT",
+    "date": "2023-02-14T19:25:04.305Z",
+    "user": {
+      "name": "Ray Pressley",
+      "location": "San Francisco",
+      "imageUrl": "https://picsum.photos/200/300",
+      "previousDeals": 20,
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+    },
+    "availableTimeSlots": [
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      }
+    ],
+    "startingAt": "2023-02-14T19:25:04.305Z",
+    "sessionPrice": "80.00"
+  },
+  {
+    "id": 5,
+    "status": "ACTIVE",
+    "date": "2023-02-14T19:25:04.305Z",
+    "user": {
+      "name": "Ray Pressley",
+      "location": "San Francisco",
+      "imageUrl": "https://picsum.photos/200/300",
+      "previousDeals": 20,
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+    },
+    "availableTimeSlots": [
+      {
+        "date": "2023-02-14T19:25:04.305Z",
+        "from": "09 00 am",
+        "to": "09 00 am"
+      }
+    ],
+    "startingAt": "2023-02-14T19:25:04.305Z",
+    "sessionPrice": "80.00"
+  }
+]
